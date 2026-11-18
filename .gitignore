@@ -1,0 +1,21 @@
+
+# Environment variables and secrets
+.env
+
+# Node dependencies
+node_modules/
+
+# Build output
+dist/
+coverage/
+
+# Git
+.git/
+
+# Logs
+*.log
+npm-debug.log*
+
+# Operating system
+.DS_Store
+Thumbs.db
